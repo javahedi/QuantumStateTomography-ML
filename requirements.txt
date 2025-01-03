@@ -1,0 +1,19 @@
+# Core libraries
+numpy==1.24.0
+matplotlib==3.8.0
+seaborn==0.12.2
+tqdm==4.65.0
+
+# JAX and related libraries
+jax==0.4.8
+flax==0.6.0
+optax==0.1.7
+
+# For saving/loading models and data
+pickle5==0.0.12  # Compatible version of pickle for Python
+
+# For plotting in Jupyter
+matplotlib-inline==0.1.6
+
+# Optional: If you are using Google Colab
+google-colab==1.0.0
